@@ -6,7 +6,7 @@ Charting Library Integration:
      - [Highcharts](https://www.highcharts.com/)
 
 
-
+deployed output link: https://probz-ai-kappa.vercel.app/
 
 
 
