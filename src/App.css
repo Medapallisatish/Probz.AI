@@ -1,7 +1,23 @@
+*{
+  box-sizing: border-box;
+  margin:0px;
+}
+
 .App {
   text-align: center;
+  background-image:linear-gradient(to right, black,#1EAE98);
+  height:100vh;
 }
 
 button {
   margin: 5px;
+  
 }
+.heading{
+  padding:25px;
+  background: linear-gradient(to top, black,#1EAE98,white,black);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;}
+
+  
