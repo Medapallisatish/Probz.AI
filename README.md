@@ -1,3 +1,15 @@
+Charting Library Integration:
+   - Choose a charting library that supports timeframe breakdown, zooming, and click events. Recommended libraries include:
+     - [Chart.js](https://www.chartjs.org/)
+     - [Recharts](https://recharts.org/)
+     - [ApexCharts](https://apexcharts.com/)
+     - [Highcharts](https://www.highcharts.com/)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
